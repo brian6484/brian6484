@@ -1,6 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian6484&count_private=true&show_icons=true&theme=radical)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian6484&count_private=true&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian6484&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian6484)](https://github.com/anuraghazra/github-readme-stats)
 
 - You learn by an infinite cycle of trying and failing -
