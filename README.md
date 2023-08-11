@@ -2,6 +2,7 @@
 ### 👨‍🔬 Imperial College London
 
 ---
+- You learn by an infinite cycle of trying and failing -
 
 ## 🚀 Project
 | Project | Description | Framework | ETC |
@@ -14,6 +15,6 @@
 ## 📃 More
 <a href="https://brian6484.github.io/"><img src="https://img.shields.io/badge/Velog-%20C997.svg?style=for-the-social&logo=velog&logoColor=white&link=https://velog.io/@sians0209"/></a>  <a href="https://www.linkedin.com/in/jeonghwan-lee-472140188/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-social&logo=linkedin&logoColor=white"/></a>
 
-- You learn by an infinite cycle of trying and failing -
+
 
 
