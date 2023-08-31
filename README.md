@@ -7,8 +7,8 @@
 ## 🚀 Project
 | Project | Description | Framework | ETC |
 | :---: | :---: | :--: | :--: |
-| [Coding Mates](https://github.com/Coding-Mates-Group/codingmates) | Social platform for developers and designers - students or professionals to form a group and collaborate on a side project | Spring Boot | |
 | [PiCK!](https://github.com/junction-asia-pros/pros-team-server) | Eco-friendly app service that incentivises users by offering rewards for returning reusable tableware to their respective restaurants, promoting sustainability and reducing waste | Spring Boot | |
+| [Coding Mates](https://github.com/Coding-Mates-Group/codingmates) | Social platform for developers and designers - students or professionals to form a group and collaborate on a side project | Spring Boot | |
 
 
 ---
