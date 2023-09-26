@@ -7,7 +7,8 @@
 ## 🚀 Project
 | Project | Description | Framework | ETC |
 | :---: | :---: | :--: | :--: |
-| [Pick Pic](https://github.com/unit10team7/unithon-backend) | For those who strike a V pose every time they take a photo! For those who ponder over their poses when taking four-frame photos! 'Pick Pic' provides diverse category of K-POP idol poses for you to select, pose and save your very own 인생네컷(life's four cuts)!    | Spring Boot | Unithon Hackathon |
+| [Pick Pic](https://github.com/unit10team7/unithon-backend) | For those who strike a V pose every time they take a photo! For those who ponder over their poses when taking four-frame photos! 'Pick Pic' offers a diverse category of K-POP idol poses for you to choose from, strike your pose, and capture your very own "Life's Four Cuts"!   | Spring Boot | Unithon Hackathon |
+| Personal Project | A chat application to learn STOMP(Simple Text Orientated Messaging Protocol) and Redis | Spring Boot | Side Project |
 | [PiCK!](https://github.com/junction-asia-pros/pros-team-server) | Eco-friendly app service that incentivises users by offering rewards for returning reusable tableware to their respective restaurants, promoting sustainability and reducing waste | Spring Boot | Junction Asia 2023 Hackathon |
 | [Coding Mates](https://github.com/Coding-Mates-Group/codingmates) | Social platform for developers and designers - students or professionals to form a group and collaborate on a side project | Spring Boot | Side project |
 
