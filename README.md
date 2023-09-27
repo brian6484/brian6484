@@ -8,7 +8,7 @@
 | Project | Description | Framework | ETC | Year | 
 | :---: | :---: | :--: | :--: | :--: |
 | [픽픽](https://github.com/unit10team7/unithon-backend) | A social photo app that offers a diverse category of K-POP idol poses for you to choose from, strike your 4 selected poses, and capture your very own "Life's Four Cuts"!   | Spring Boot | Unithon Hackathon | 2023 | 
-| [Personal Project](https://github.com/gabo-zago/gabozago-backend) | Developed an interactive chat application to study STOMP (Simple Text Oriented Messaging Protocol) and Redis | Spring Boot | Side Project | 2023 | 
+| [Side Project](https://github.com/gabo-zago/gabozago-backend) | Developed REST APIs to study STOMP (Simple Text Oriented Messaging Protocol) and Redis | Spring Boot | Side Project | 2023 | 
 | [PiCK!](https://github.com/junction-asia-pros/pros-team-server) | Eco-friendly app service that incentivises users by offering rewards for returning reusable tableware to their respective restaurants, promoting sustainability and reducing waste | Spring Boot | Junction Asia 2023 Hackathon | 2023 | 
 | [Coding Mates](https://github.com/Coding-Mates-Group/codingmates) | Social platform for developers and designers - students or professionals to form a group and collaborate on a side project | Spring Boot | Side Project (Team Leader) | 2022 | 
 
