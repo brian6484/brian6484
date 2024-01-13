@@ -8,7 +8,7 @@
 | Project | Description | Framework | ETC | Year | 
 | :---: | :---: | :--: | :--: | :--: |
 | Favourite | A personalised colour app that leverages Furiosa's NPU Warboy and YOLOv8 to accurately identify and recommend the best-suited personal colour for individuals | FastAPI, Spring Boot | Furiosa AI Hackathon (Excellence Award🏆) | 2023 | 
-| 비법거래소 | Social platform that allows users to monetize their unique experiences, expertise, and knowledge by sharing them through written content, earning income based on user evaluations | Spring Boot | Side Project | 2023 - Ongoing | 
+| 비법거래소 | Social platform that allows users to monetize their unique experiences, expertise, and knowledge by sharing them through written content, earning income based on user evaluations | Spring Boot | Side Project | 2023 - Current | 
 | [STOMPRedis](https://github.com/brian6484/STOMPRedis) | Developed REST APIs to study STOMP (Simple Text Oriented Messaging Protocol) and Redis | Spring Boot | Side Project | 2023 | 
 | [픽픽](https://github.com/unit10team7/unithon-backend) | A social photo app that offers a diverse category of K-POP idol poses for you to choose from, strike your 4 selected poses, and capture your very own "Life's Four Cuts"! (인생네컷) | Spring Boot | Unithon Hackathon | 2023 | 
 | [PiCK!](https://github.com/junction-asia-pros/pros-team-server) | Eco-friendly app service that incentivises users by offering rewards for returning reusable tableware to their respective restaurants, promoting sustainability and reducing waste | Spring Boot | Junction Asia 2023 Hackathon | 2023 | 
