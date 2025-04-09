@@ -7,7 +7,7 @@ You learn by an infinite cycle of trying and failing
 ## 🚀 Project
 | Project | Description | Framework | ETC | Year | 
 | :---: | :---: | :--: | :--: | :--: |
-| Sera | An AI Virtual Closet app | FastAPI, Spring Boot | Group Project (Team Leader) | 2024 - Present | 
+| Sera | An AI Virtual Closet app | Spring Boot | Group Project (Team Leader) | 2024 - Present | 
 | [비법거래소](https://bibeop.com/serviceIntroduction?utm_source=kakaotalk&utm_medium=writing&utm_campaign=Introduction&utm_id=invitation) | Social platform that allows users to monetize their unique experiences, expertise, and knowledge by sharing them through written content, earning income based on user evaluations | Spring Boot | Group Project | 2023 - 2024 | 
 | Favourite | A personalised colour app that leverages Furiosa's NPU Warboy and YOLOv8 to accurately identify and recommend the best-suited personal colour for individuals | FastAPI, Spring Boot | Furiosa AI Hackathon (Excellence Award🏆) | 2023 | 
 | [STOMPRedis](https://github.com/brian6484/STOMPRedis) | Developed REST APIs to study STOMP (Simple Text Oriented Messaging Protocol) and Redis | Spring Boot | Personal Project | 2023 | 
